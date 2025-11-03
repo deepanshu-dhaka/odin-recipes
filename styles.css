@@ -1,14 +1,15 @@
-h1{
+h1, h2{
     font-family: cursive;
     text-align: center;
 }
 
 body{
     background-color: #F5F0E1;
+    font-family: monospace, serif;
 
 }
 
-img{
+.paneer-image, .cholay-image, .jamun-image{
     display: block;
     margin: 0 auto;
     width: 50%;
@@ -30,9 +31,26 @@ a{
     color: white;
 }
 
+.creative-link{
+    color: blue;
+    text-decoration: underline;
+}
 
 
 /* .paneer-image, .cholay-image, .jamun-image{
     height: 220px;
     width: auto;
 } */
+
+.home-button{
+    font-size: 18px;
+    margin: 12px auto 10px;
+}
+
+div.container{
+    text-align: center;
+}
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+}
