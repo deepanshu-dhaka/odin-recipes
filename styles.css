@@ -1,0 +1,38 @@
+h1{
+    font-family: cursive;
+    text-align: center;
+}
+
+body{
+    background-color: #F5F0E1;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+button{
+    display: block;
+    margin: 12px auto 50px;
+    border: none;
+    color: white;
+    background-color: #5C3A2E;
+    padding: 10px 15px;
+    border-radius: 7px;
+    font-family: monospace, serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* .paneer-image, .cholay-image, .jamun-image{
+    height: 220px;
+    width: auto;
+} */
